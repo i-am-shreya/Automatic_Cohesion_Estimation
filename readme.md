@@ -11,6 +11,9 @@ Seventh EmotiW Challenge was be organised at ACM ICMI 2019. [EmotiW 2019](https:
 
 - Shreya Ghosh, Abhinav Dhall, Nicu Sebe, Tom Gedeon. Automatic Prediction of Group Cohesiveness in Images. In IEEE Transactions on Affective Computing 2020. [Link](https://ieeexplore.ieee.org/abstract/document/9204834)
 
+## Contact:
+For accessing the database for research or commercial purpose, please email Abhinav Dhall at abhinav[at]iitrpr.ac.in, abhinav[DOT]dhall[at]monash[DOT]edu.
+
 ## Publications in EmotiW Subchallenges:
 ## EmotiW 2019:
 - Exploring Regularizations with Face, Body and Image Cues for Group Cohesion Prediction - Guo, D., Wang, K., Yang, J., Zhang, K., Peng, X. and Qiao, Y.
